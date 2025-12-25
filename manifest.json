@@ -1,0 +1,21 @@
+{
+  "name": "SirayMusic Premium",
+  "short_name": "SirayMusic",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#ff2e63",
+  "description": "High-Quality Cinematic Music Streaming",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=192&h=192&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=512&h=512&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

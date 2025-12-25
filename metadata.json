@@ -1,0 +1,7 @@
+{
+  "name": "SirayMusic Premium",
+  "description": "A high-performance music streaming application inspired by Spotify and YouTube Music, featuring Gemini-powered recommendations and a sleek glassmorphic UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
